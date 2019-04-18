@@ -1588,8 +1588,17 @@ namespace WorkManager_ProGuard
 			// aapt resource value: 0x7f0d0002
 			public const int abc_config_actionMenuItemAllCaps = 2131558402;
 			
+			// aapt resource value: 0x7f0d0004
+			public const int enable_system_alarm_service_default = 2131558404;
+			
+			// aapt resource value: 0x7f0d0005
+			public const int enable_system_job_service_default = 2131558405;
+			
 			// aapt resource value: 0x7f0d0003
 			public const int mtrl_btn_textappearance_all_caps = 2131558403;
+			
+			// aapt resource value: 0x7f0d0006
+			public const int workmanager_test_configuration = 2131558406;
 			
 			static Boolean()
 			{
